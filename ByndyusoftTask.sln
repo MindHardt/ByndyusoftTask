@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByndyusoftTask", "ByndyusoftTask\ByndyusoftTask.csproj", "{D196528C-BEE0-48A2-9B3F-D1250E6F84DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByndyusoftTask.Tests", "ByndyusoftTask.Tests\ByndyusoftTask.Tests.csproj", "{74E6E8C1-DE38-4CF0-A74F-6A5498582063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D196528C-BEE0-48A2-9B3F-D1250E6F84DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D196528C-BEE0-48A2-9B3F-D1250E6F84DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D196528C-BEE0-48A2-9B3F-D1250E6F84DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D196528C-BEE0-48A2-9B3F-D1250E6F84DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E6E8C1-DE38-4CF0-A74F-6A5498582063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E6E8C1-DE38-4CF0-A74F-6A5498582063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E6E8C1-DE38-4CF0-A74F-6A5498582063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E6E8C1-DE38-4CF0-A74F-6A5498582063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12D02DB-E2C8-4985-8F2D-D9F6F599EAD6}
+	EndGlobalSection
+EndGlobal
