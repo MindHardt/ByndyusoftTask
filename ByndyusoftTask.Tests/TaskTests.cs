@@ -11,8 +11,8 @@ namespace ByndyusoftTask.Tests
         [InlineData(new int[] { 0, 0, 0, 0, 0 })]
         public void SumOfTwoMinimals_ValuesOK_ReturnOK(int[] value)
         {
-            int expected = value[0] + value[1];
-            int actual = SumOfTwoMinimals(value);
+            long expected = value[0] + value[1];
+            long actual = SumOfTwoMinimals(value);
 
             Assert.Equal(expected, actual);
         }
